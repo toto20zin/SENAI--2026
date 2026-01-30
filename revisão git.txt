@@ -1,0 +1,12 @@
+revisão git
+//clonar/copiar repositório web
+git clone https://github.com/toto20zin/SENAI--2026.git
+
+
+//atualizar Repositório WEB
+git add . //Verifica arquivos alterados
+git commit -m "algum comentário" //Verifica as alterações nos arquivos
+git push //Envia as alterações para nuvem
+
+//Atualizar repositório local
+git pull
